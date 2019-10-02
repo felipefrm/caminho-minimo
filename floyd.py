@@ -8,8 +8,12 @@ def imprime(dist, nVertices):
         arq.write(str(dist[i]) + '\n')
 
     for i in range(nVertices):
-        arq.write("\nSaindo do vertice {}: ".format(i))
-        arq.write("Maior caminho: {} ({}-{}) / Menor caminho: {} ({}-{}) / Media: {}".format(max(dist[i]), i, dist[i].index(max(dist[i])), min(dist[i]), i, dist[i].index(min(dist[i])), sum(dist[i])/nVertices))
+        arq.write("\nSaindo do vertice {}\n".format(i))
+        arq.write("Maior caminho: {} ({}x)\n".format(max(dist[i]), dist[i].count(max(dist[i]))))
+        dist[i].pop(dist[i].index(min(dist[i])))
+        arq.write("Menor caminho: {} ({}x)\n".format(min(dist[i]), dist[i].count(min(dist[i]))))
+        arq.write("Media: {}\n".format(sum(dist[i])/nVertices))
+
 
     arq.close()
 
@@ -29,7 +33,7 @@ class Igraph(Graph):
                     dist[i][j] = 0
                     rotas[i][j] = i+1
                 elif self[i,j] != 0:
-                    dist[i][j] = self[i,j]
+                    dist[i][j] = 1
                     rotas[i][j] = i+1
 
         print(dist)
@@ -42,5 +46,4 @@ class Igraph(Graph):
                         rotas[i][j] = rotas[i][k]
         print(dist)
         print(rotas)
-        
         imprime(dist, nVertices)
