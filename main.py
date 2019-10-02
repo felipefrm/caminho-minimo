@@ -25,6 +25,21 @@ def imprimeEstatisticas(dist, nVertices):
     arq.write("Media geral: {}\n".format(sum(media)/float(nVertices), media.index(max(media))))
     arq.write("-" * 40)
 
+    d1 = d2 = d3 = 0
+    for i in range(nVertices):
+        for j in range(i, nVertices):
+            if dist[i][j] == 1:
+                d1 += 1
+            elif dist[i][j] == 2:
+                d2 += 1
+            elif dist[i][j] >= 3:
+                d3 += 1
+
+
+    arq.write("\nCaminho minimo = 1: {:.2f} %\n".format((d1/float(d1+d2+d3))*100))
+    arq.write("Caminho minimo = 2: {:.2f} %\n".format((d2/float(d1+d2+d3))*100))
+    arq.write("Caminho minimo = 2: {:.2f} %\n".format((d3/float(d1+d2+d3))*100))
+
     arq.close()
 
 
