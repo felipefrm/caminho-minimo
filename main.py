@@ -1,9 +1,9 @@
 from floyd import*
-import sys
 from igraph import*
+import sys
+
 rede = sys.argv[1]
 #url = rede+".txt"
 g = Igraph(rede)
-print("ok")
-g = g.Read_Ncol(rede)
+g = g.Read_Ncol(rede, directed = False)
 g.floyd()

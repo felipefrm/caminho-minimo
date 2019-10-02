@@ -1,0 +1,11 @@
+MATRIZ DE DISTANCIA:
+
+[0, 1.0, 2.0, 3.0]
+[1.0, 0, 1.0, 2.0]
+[2.0, 1.0, 0, 1.0]
+[3.0, 2.0, 1.0, 0]
+
+Saindo do vertice 0: Maior caminho: 3.0 (0-3) / Menor caminho: 0 (0-0) / Media: 1.5
+Saindo do vertice 1: Maior caminho: 2.0 (1-3) / Menor caminho: 0 (1-1) / Media: 1.0
+Saindo do vertice 2: Maior caminho: 2.0 (2-0) / Menor caminho: 0 (2-2) / Media: 1.0
+Saindo do vertice 3: Maior caminho: 3.0 (3-0) / Menor caminho: 0 (3-3) / Media: 1.5
