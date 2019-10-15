@@ -1,0 +1,565 @@
+< Individuo 0 >
+Maior caminho: 2 (43x)
+Menor caminho: 1 (69x)
+Media: 1.37168141593
+
+< Individuo 1 >
+Maior caminho: 3 (1x)
+Menor caminho: 1 (36x)
+Media: 1.67256637168
+
+< Individuo 2 >
+Maior caminho: 2 (50x)
+Menor caminho: 1 (62x)
+Media: 1.43362831858
+
+< Individuo 3 >
+Maior caminho: 2 (85x)
+Menor caminho: 1 (27x)
+Media: 1.74336283186
+
+< Individuo 4 >
+Maior caminho: 2 (31x)
+Menor caminho: 1 (81x)
+Media: 1.26548672566
+
+< Individuo 5 >
+Maior caminho: 2 (54x)
+Menor caminho: 1 (58x)
+Media: 1.46902654867
+
+< Individuo 6 >
+Maior caminho: 2 (34x)
+Menor caminho: 1 (78x)
+Media: 1.29203539823
+
+< Individuo 7 >
+Maior caminho: 2 (34x)
+Menor caminho: 1 (78x)
+Media: 1.29203539823
+
+< Individuo 8 >
+Maior caminho: 2 (52x)
+Menor caminho: 1 (60x)
+Media: 1.45132743363
+
+< Individuo 9 >
+Maior caminho: 2 (67x)
+Menor caminho: 1 (45x)
+Media: 1.58407079646
+
+< Individuo 10 >
+Maior caminho: 2 (34x)
+Menor caminho: 1 (78x)
+Media: 1.29203539823
+
+< Individuo 11 >
+Maior caminho: 2 (22x)
+Menor caminho: 1 (90x)
+Media: 1.18584070796
+
+< Individuo 12 >
+Maior caminho: 2 (38x)
+Menor caminho: 1 (74x)
+Media: 1.32743362832
+
+< Individuo 13 >
+Maior caminho: 2 (63x)
+Menor caminho: 1 (49x)
+Media: 1.54867256637
+
+< Individuo 14 >
+Maior caminho: 2 (35x)
+Menor caminho: 1 (77x)
+Media: 1.30088495575
+
+< Individuo 15 >
+Maior caminho: 2 (65x)
+Menor caminho: 1 (47x)
+Media: 1.56637168142
+
+< Individuo 16 >
+Maior caminho: 2 (75x)
+Menor caminho: 1 (37x)
+Media: 1.65486725664
+
+< Individuo 17 >
+Maior caminho: 2 (37x)
+Menor caminho: 1 (75x)
+Media: 1.3185840708
+
+< Individuo 18 >
+Maior caminho: 2 (40x)
+Menor caminho: 1 (72x)
+Media: 1.34513274336
+
+< Individuo 19 >
+Maior caminho: 2 (29x)
+Menor caminho: 1 (83x)
+Media: 1.24778761062
+
+< Individuo 20 >
+Maior caminho: 2 (56x)
+Menor caminho: 1 (56x)
+Media: 1.48672566372
+
+< Individuo 21 >
+Maior caminho: 2 (38x)
+Menor caminho: 1 (74x)
+Media: 1.32743362832
+
+< Individuo 22 >
+Maior caminho: 2 (54x)
+Menor caminho: 1 (58x)
+Media: 1.46902654867
+
+< Individuo 23 >
+Maior caminho: 2 (31x)
+Menor caminho: 1 (81x)
+Media: 1.26548672566
+
+< Individuo 24 >
+Maior caminho: 3 (4x)
+Menor caminho: 1 (24x)
+Media: 1.80530973451
+
+< Individuo 25 >
+Maior caminho: 2 (46x)
+Menor caminho: 1 (66x)
+Media: 1.3982300885
+
+< Individuo 26 >
+Maior caminho: 2 (40x)
+Menor caminho: 1 (72x)
+Media: 1.34513274336
+
+< Individuo 27 >
+Maior caminho: 2 (52x)
+Menor caminho: 1 (60x)
+Media: 1.45132743363
+
+< Individuo 28 >
+Maior caminho: 2 (47x)
+Menor caminho: 1 (65x)
+Media: 1.40707964602
+
+< Individuo 29 >
+Maior caminho: 2 (38x)
+Menor caminho: 1 (74x)
+Media: 1.32743362832
+
+< Individuo 30 >
+Maior caminho: 2 (49x)
+Menor caminho: 1 (63x)
+Media: 1.42477876106
+
+< Individuo 31 >
+Maior caminho: 2 (43x)
+Menor caminho: 1 (69x)
+Media: 1.37168141593
+
+< Individuo 32 >
+Maior caminho: 2 (58x)
+Menor caminho: 1 (54x)
+Media: 1.50442477876
+
+< Individuo 33 >
+Maior caminho: 2 (24x)
+Menor caminho: 1 (88x)
+Media: 1.20353982301
+
+< Individuo 34 >
+Maior caminho: 2 (49x)
+Menor caminho: 1 (63x)
+Media: 1.42477876106
+
+< Individuo 35 >
+Maior caminho: 2 (43x)
+Menor caminho: 1 (69x)
+Media: 1.37168141593
+
+< Individuo 36 >
+Maior caminho: 2 (25x)
+Menor caminho: 1 (87x)
+Media: 1.21238938053
+
+< Individuo 37 >
+Maior caminho: 2 (45x)
+Menor caminho: 1 (67x)
+Media: 1.38938053097
+
+< Individuo 38 >
+Maior caminho: 2 (37x)
+Menor caminho: 1 (75x)
+Media: 1.3185840708
+
+< Individuo 39 >
+Maior caminho: 2 (44x)
+Menor caminho: 1 (68x)
+Media: 1.38053097345
+
+< Individuo 40 >
+Maior caminho: 2 (39x)
+Menor caminho: 1 (73x)
+Media: 1.33628318584
+
+< Individuo 41 >
+Maior caminho: 2 (48x)
+Menor caminho: 1 (64x)
+Media: 1.41592920354
+
+< Individuo 42 >
+Maior caminho: 2 (38x)
+Menor caminho: 1 (74x)
+Media: 1.32743362832
+
+< Individuo 43 >
+Maior caminho: 2 (56x)
+Menor caminho: 1 (56x)
+Media: 1.48672566372
+
+< Individuo 44 >
+Maior caminho: 2 (45x)
+Menor caminho: 1 (67x)
+Media: 1.38938053097
+
+< Individuo 45 >
+Maior caminho: 2 (63x)
+Menor caminho: 1 (49x)
+Media: 1.54867256637
+
+< Individuo 46 >
+Maior caminho: 2 (32x)
+Menor caminho: 1 (80x)
+Media: 1.27433628319
+
+< Individuo 47 >
+Maior caminho: 3 (1x)
+Menor caminho: 1 (33x)
+Media: 1.69911504425
+
+< Individuo 48 >
+Maior caminho: 2 (38x)
+Menor caminho: 1 (74x)
+Media: 1.32743362832
+
+< Individuo 49 >
+Maior caminho: 2 (30x)
+Menor caminho: 1 (82x)
+Media: 1.25663716814
+
+< Individuo 50 >
+Maior caminho: 2 (36x)
+Menor caminho: 1 (76x)
+Media: 1.30973451327
+
+< Individuo 51 >
+Maior caminho: 2 (38x)
+Menor caminho: 1 (74x)
+Media: 1.32743362832
+
+< Individuo 52 >
+Maior caminho: 2 (50x)
+Menor caminho: 1 (62x)
+Media: 1.43362831858
+
+< Individuo 53 >
+Maior caminho: 2 (62x)
+Menor caminho: 1 (50x)
+Media: 1.53982300885
+
+< Individuo 54 >
+Maior caminho: 2 (62x)
+Menor caminho: 1 (50x)
+Media: 1.53982300885
+
+< Individuo 55 >
+Maior caminho: 2 (42x)
+Menor caminho: 1 (70x)
+Media: 1.36283185841
+
+< Individuo 56 >
+Maior caminho: 2 (34x)
+Menor caminho: 1 (78x)
+Media: 1.29203539823
+
+< Individuo 57 >
+Maior caminho: 2 (53x)
+Menor caminho: 1 (59x)
+Media: 1.46017699115
+
+< Individuo 58 >
+Maior caminho: 2 (38x)
+Menor caminho: 1 (74x)
+Media: 1.32743362832
+
+< Individuo 59 >
+Maior caminho: 2 (56x)
+Menor caminho: 1 (56x)
+Media: 1.48672566372
+
+< Individuo 60 >
+Maior caminho: 2 (48x)
+Menor caminho: 1 (64x)
+Media: 1.41592920354
+
+< Individuo 61 >
+Maior caminho: 2 (43x)
+Menor caminho: 1 (69x)
+Media: 1.37168141593
+
+< Individuo 62 >
+Maior caminho: 2 (39x)
+Menor caminho: 1 (73x)
+Media: 1.33628318584
+
+< Individuo 63 >
+Maior caminho: 2 (22x)
+Menor caminho: 1 (90x)
+Media: 1.18584070796
+
+< Individuo 64 >
+Maior caminho: 2 (41x)
+Menor caminho: 1 (71x)
+Media: 1.35398230088
+
+< Individuo 65 >
+Maior caminho: 2 (60x)
+Menor caminho: 1 (52x)
+Media: 1.52212389381
+
+< Individuo 66 >
+Maior caminho: 2 (25x)
+Menor caminho: 1 (87x)
+Media: 1.21238938053
+
+< Individuo 67 >
+Maior caminho: 2 (51x)
+Menor caminho: 1 (61x)
+Media: 1.44247787611
+
+< Individuo 68 >
+Maior caminho: 2 (60x)
+Menor caminho: 1 (52x)
+Media: 1.52212389381
+
+< Individuo 69 >
+Maior caminho: 2 (80x)
+Menor caminho: 1 (32x)
+Media: 1.69911504425
+
+< Individuo 70 >
+Maior caminho: 2 (45x)
+Menor caminho: 1 (67x)
+Media: 1.38938053097
+
+< Individuo 71 >
+Maior caminho: 2 (42x)
+Menor caminho: 1 (70x)
+Media: 1.36283185841
+
+< Individuo 72 >
+Maior caminho: 2 (60x)
+Menor caminho: 1 (52x)
+Media: 1.52212389381
+
+< Individuo 73 >
+Maior caminho: 2 (64x)
+Menor caminho: 1 (48x)
+Media: 1.55752212389
+
+< Individuo 74 >
+Maior caminho: 2 (67x)
+Menor caminho: 1 (45x)
+Media: 1.58407079646
+
+< Individuo 75 >
+Maior caminho: 3 (3x)
+Menor caminho: 1 (37x)
+Media: 1.6814159292
+
+< Individuo 76 >
+Maior caminho: 3 (1x)
+Menor caminho: 1 (40x)
+Media: 1.63716814159
+
+< Individuo 77 >
+Maior caminho: 2 (49x)
+Menor caminho: 1 (63x)
+Media: 1.42477876106
+
+< Individuo 78 >
+Maior caminho: 2 (38x)
+Menor caminho: 1 (74x)
+Media: 1.32743362832
+
+< Individuo 79 >
+Maior caminho: 3 (1x)
+Menor caminho: 1 (46x)
+Media: 1.58407079646
+
+< Individuo 80 >
+Maior caminho: 2 (63x)
+Menor caminho: 1 (49x)
+Media: 1.54867256637
+
+< Individuo 81 >
+Maior caminho: 2 (53x)
+Menor caminho: 1 (59x)
+Media: 1.46017699115
+
+< Individuo 82 >
+Maior caminho: 2 (60x)
+Menor caminho: 1 (52x)
+Media: 1.52212389381
+
+< Individuo 83 >
+Maior caminho: 2 (58x)
+Menor caminho: 1 (54x)
+Media: 1.50442477876
+
+< Individuo 84 >
+Maior caminho: 2 (65x)
+Menor caminho: 1 (47x)
+Media: 1.56637168142
+
+< Individuo 85 >
+Maior caminho: 2 (49x)
+Menor caminho: 1 (63x)
+Media: 1.42477876106
+
+< Individuo 86 >
+Maior caminho: 2 (46x)
+Menor caminho: 1 (66x)
+Media: 1.3982300885
+
+< Individuo 87 >
+Maior caminho: 2 (37x)
+Menor caminho: 1 (75x)
+Media: 1.3185840708
+
+< Individuo 88 >
+Maior caminho: 2 (53x)
+Menor caminho: 1 (59x)
+Media: 1.46017699115
+
+< Individuo 89 >
+Maior caminho: 2 (37x)
+Menor caminho: 1 (75x)
+Media: 1.3185840708
+
+< Individuo 90 >
+Maior caminho: 2 (53x)
+Menor caminho: 1 (59x)
+Media: 1.46017699115
+
+< Individuo 91 >
+Maior caminho: 2 (59x)
+Menor caminho: 1 (53x)
+Media: 1.51327433628
+
+< Individuo 92 >
+Maior caminho: 2 (38x)
+Menor caminho: 1 (74x)
+Media: 1.32743362832
+
+< Individuo 93 >
+Maior caminho: 2 (61x)
+Menor caminho: 1 (51x)
+Media: 1.53097345133
+
+< Individuo 94 >
+Maior caminho: 2 (48x)
+Menor caminho: 1 (64x)
+Media: 1.41592920354
+
+< Individuo 95 >
+Maior caminho: 2 (67x)
+Menor caminho: 1 (45x)
+Media: 1.58407079646
+
+< Individuo 96 >
+Maior caminho: 2 (48x)
+Menor caminho: 1 (64x)
+Media: 1.41592920354
+
+< Individuo 97 >
+Maior caminho: 2 (57x)
+Menor caminho: 1 (55x)
+Media: 1.49557522124
+
+< Individuo 98 >
+Maior caminho: 2 (44x)
+Menor caminho: 1 (68x)
+Media: 1.38053097345
+
+< Individuo 99 >
+Maior caminho: 2 (42x)
+Menor caminho: 1 (70x)
+Media: 1.36283185841
+
+< Individuo 100 >
+Maior caminho: 2 (59x)
+Menor caminho: 1 (53x)
+Media: 1.51327433628
+
+< Individuo 101 >
+Maior caminho: 2 (70x)
+Menor caminho: 1 (42x)
+Media: 1.61061946903
+
+< Individuo 102 >
+Maior caminho: 2 (48x)
+Menor caminho: 1 (64x)
+Media: 1.41592920354
+
+< Individuo 103 >
+Maior caminho: 2 (46x)
+Menor caminho: 1 (66x)
+Media: 1.3982300885
+
+< Individuo 104 >
+Maior caminho: 2 (51x)
+Menor caminho: 1 (61x)
+Media: 1.44247787611
+
+< Individuo 105 >
+Maior caminho: 2 (52x)
+Menor caminho: 1 (60x)
+Media: 1.45132743363
+
+< Individuo 106 >
+Maior caminho: 2 (83x)
+Menor caminho: 1 (29x)
+Media: 1.72566371681
+
+< Individuo 107 >
+Maior caminho: 2 (78x)
+Menor caminho: 1 (34x)
+Media: 1.6814159292
+
+< Individuo 108 >
+Maior caminho: 2 (85x)
+Menor caminho: 1 (27x)
+Media: 1.74336283186
+
+< Individuo 109 >
+Maior caminho: 2 (68x)
+Menor caminho: 1 (44x)
+Media: 1.59292035398
+
+< Individuo 110 >
+Maior caminho: 2 (53x)
+Menor caminho: 1 (59x)
+Media: 1.46017699115
+
+< Individuo 111 >
+Maior caminho: 3 (1x)
+Menor caminho: 1 (28x)
+Media: 1.74336283186
+
+< Individuo 112 >
+Maior caminho: 2 (76x)
+Menor caminho: 1 (36x)
+Media: 1.66371681416
+

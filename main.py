@@ -25,7 +25,7 @@ def imprimeEstatisticas(dist, nVertices):
 
     media = []
     for i in range(nVertices):
-        media.append((sum(dist[i])/float(nVertices)))
+        media.append((sum(dist[i])/float(nVertices)))       # imprime maior e menor caminho de cada individuo
         individual.write("< Individuo {} >\n".format(i))
         individual.write("Maior caminho: {} ({}x)\n".format(max(dist[i]), dist[i].count(max(dist[i]))))
         individual.write("Menor caminho: {} ({}x)\n".format(min(i for i in dist[i] if i > 0), dist[i].count(min(i for i in dist[i] if i > 0))))
@@ -33,7 +33,7 @@ def imprimeEstatisticas(dist, nVertices):
 
     individual.close()
 
-    geral = open('resultado_geral.txt', 'w')
+    geral = open('resultado_geral.txt', 'w')                # imprime dados gerais obtidos na execucao
 
     geral.write("-" * 40)
     geral.write("\nMaior media: {} (individuo {})\n".format(max(media), media.index(max(media))))
@@ -50,7 +50,8 @@ def imprimeEstatisticas(dist, nVertices):
     geral.close()
 
 
-rede = sys.argv[1]
-g = Igraph(rede)
-g = g.Read_Ncol(rede, directed = False)
-imprimeEstatisticas(g.floyd(), g.vcount())
+
+rede = sys.argv[1]      # le o arquivo passado por argumento no terminal
+g = Igraph(rede)        # cria o grafo
+g = g.Read_Ncol(rede, directed = False)     # le o arquivo contendo o grafo
+imprimeEstatisticas(g.floyd(), g.vcount())  # executa o floyd e imprime os dados
